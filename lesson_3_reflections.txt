@@ -3,3 +3,8 @@ When others contribute to the same project, or if i want to share the project
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 When not all code is ready for the general public
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are clones of a GitHub repo on Github
+Clones are eiter copies of a Github repo on my local computer or a copy of a local repo on my local PC
+Branches are a copies of a commit
