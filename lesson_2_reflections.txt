@@ -15,3 +15,6 @@ It helps to see which commits are unreachable and to see where a branch has been
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The changes on both branches are combined or merged into one branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Trivial merges are easier done automatically. If more complex merges were to be made automatically, it would require some out of this world algorithms and sixth sense
