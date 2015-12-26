@@ -12,3 +12,6 @@ When exploring experimental features or developing side projects
 
 How do the diagrams help you visualize the branch structure?
 It helps to see which commits are unreachable and to see where a branch has been made - making it easyer to know what will be lost if you revert back to a different branch
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The changes on both branches are combined or merged into one branch
