@@ -13,4 +13,8 @@ What is the benefit of having a copy of the last known state of the remote store
 you can merge them off-line
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-I would propably use something like dropbox, use a lot of comments (commenting out the changed lines) and frequent commits
+I would propably use something like dropbox, use a lot of comments (commenting out the changed lines)
+and frequent commits
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would utilize separate branches when working on new features and/or when collaborating with others
